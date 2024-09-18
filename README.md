@@ -14,5 +14,6 @@ I’m an OSCP certified security professional with a strong foundation in ethica
 
 ---
 1. Clone the repository:
+2. 
    ```bash
    git clone https://github.com/sarerism/
