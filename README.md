@@ -1,19 +1,47 @@
-# 👋 Hi, I’m Sareer Ahmed
+# Sareer Ahmed
 
-I’m an OSCP certified security professional with a strong foundation in ethical hacking and cybersecurity. As I embark on my university journey, I’ve decided to broaden my technical skills by learning Java, adding to my proficiency in Python.
-
-## About Me
-
-- 👀 **Primary Interest**: Cybersecurity, particularly penetration testing, vulnerability assessments, and ethical hacking.
-- 🛡️ **Certifications**: Offensive Security Certified Professional (OSCP).
-- 🌱 **Currently Learning**: Java to enhance my programming skill set as I prepare for university coursework.
-- 💻 **Languages I Know**: Python, and now starting with Java.
-- 💼 **Looking to Collaborate On**: Security-related projects, capture-the-flag (CTF) challenges, or anything involving secure coding.
-- 📫 **How to Reach Me**: Feel free to contact me via email at `youremail@example.com` or through GitHub.
-- ⚡ **Fun Fact**: I love breaking things (in a good way) and then figuring out how to secure them!
+**Computer Science Student | OSCP+ | Penetration Tester**  
+📍 Leinfelden-Echterdingen, Germany | 💼 Werkstudent @ Atruvia AG | 🎯 Bug Hunter @ HackerOne
 
 ---
-1. Clone the repository:
-2. 
-   ```bash
-   git clone https://github.com/sarerism/
+
+Hi, I'm Sareer — an Informatics student with a strong focus on **offensive security, vulnerability research, and secure systems development**. I have hands-on experience in web application security, Active Directory environments, and real-world red teaming. I combine technical knowledge with practical problem-solving and a passion for cybersecurity.
+
+---
+
+## 🔒 Areas of Expertise
+
+- Penetration Testing & Red Teaming (Web, AD, Infrastructure)
+- Vulnerability Discovery
+- Secure Code Review & Threat Modeling
+- Tooling & Automation with Python, Bash, and Ruby
+- Exploit Development & Scripting for CTFs
+
+---
+
+## 📜 Certifications
+
+- **OSCP+** (Offensive Security, 11/2024)
+- **Security+**, **Network+** (CompTIA)
+- **A+**, **Network+** (CompTIA)
+
+---
+
+## 🧠 Ongoing Projects
+
+- **Offensive Security Toolkit:** Scripts and payloads for pentesters  
+- **Custom Recon Framework:** Fast asset discovery and enumeration  
+- **Ruby-based Security Tools:** CLI utilities for engagement automation  
+
+---
+
+
+## 📫 Contact & Links
+
+- 📧 [sareer.ahmed@outlook.de](mailto:sareer.ahmed@outlook.de)  
+- 🔗 [LinkedIn](https://linkedin.com/in/sarerism)  
+- 💻 [HackerOne Profile](https://hackerone.com/cahn)  
+
+---
+
+> *“Security is not a product, but a process.” – Bruce Schneier*
