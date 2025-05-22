@@ -22,8 +22,8 @@ Hi, I'm Sareer — an Informatics student with a strong focus on **offensive sec
 ## 📜 Certifications
 
 - **OSCP+** (Offensive Security, 11/2024)
-- **Security+**, **Network+** (CompTIA)
-- **A+**, **Network+** (CompTIA)
+- **Security+** (CompTIA)
+- **A+** (CompTIA)
 
 ---
 
