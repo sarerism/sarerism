@@ -1,11 +1,11 @@
 # Sareer Ahmed
 
 **Computer Science Student | OSCP+ | Penetration Tester**  
-📍 Stuttgart, Germany | 💼 Werkstudent @ Mercedes-Benz | 🎯 Bug Hunter @ HackerOne
+📍 Stuttgart, Germany | 💼 Werkstudent @ Mercedes-Benz Tech Innovation | 🎯 Bug Hunter @ HackerOne
 
 ---
 
-Hi, I'm Sareer — a Computer-Science student with a strong focus on **offensive security, vulnerability research, and secure systems development**. I have hands-on experience in web application security, Active Directory environments, and real-world red teaming. I combine technical knowledge with practical problem-solving and a passion for cybersecurity.
+Hi, I'm Sareer a Computer-Science student with a strong focus on **offensive security, vulnerability research, and secure systems development**. I have hands-on experience in web application security, Active Directory environments, and real-world red teaming. I combine technical knowledge with practical problem-solving and a passion for cybersecurity.
 
 ---
 
