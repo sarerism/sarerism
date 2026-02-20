@@ -9,7 +9,7 @@ Hi, I'm Sareer a Computer-Science student with a strong focus on **offensive sec
 
 ---
 
-## 🔒 Areas of Expertise
+## Areas of Expertise
 
 - Penetration Testing & Red Teaming (Web, AD, Infrastructure)
 - Vulnerability Discovery
@@ -19,7 +19,7 @@ Hi, I'm Sareer a Computer-Science student with a strong focus on **offensive sec
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **OSCP+** (Offensive Security, 11/2024)
 - **Security+** (CompTIA)
@@ -27,7 +27,7 @@ Hi, I'm Sareer a Computer-Science student with a strong focus on **offensive sec
 
 ---
 
-## 🧠 Ongoing Projects
+## Ongoing Projects
 
 - **Offensive Security Toolkit:** Scripts and payloads for pentesters  
 - **Custom Recon Framework:** Fast asset discovery and enumeration  
@@ -36,7 +36,7 @@ Hi, I'm Sareer a Computer-Science student with a strong focus on **offensive sec
 ---
 
 
-## 📫 Contact & Links
+## Contact & Links
 
 - 📧 [sareer.ahmed@outlook.de](mailto:sareer.ahmed@outlook.de)  
 - 🔗 [LinkedIn](https://linkedin.com/in/sareer-ahmed)  
